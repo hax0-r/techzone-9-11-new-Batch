@@ -1,0 +1,27 @@
+==================================================
+                   **Class1**
+==================================================
+
+# headings
+
+h1
+h2
+h3
+h4
+h5
+h6
+
+
+1. paragraph => p
+2. bold => b
+3. italic => i
+4. strong => it also same work as bold but its also use for SEO
+5. u tag => for underline
+6. br tag => for line break ( single tag  )
+7. button 
+8. hr => use for add line
+12. center tag => use for text center
+13. a => anchor ( it is use for switch pages )
+14. target="_blank" => it is use for to open tag on next page
+15. title => define our website head
+16. mark
