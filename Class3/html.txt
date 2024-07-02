@@ -1,0 +1,106 @@
+==================================================
+                   **Class1**
+==================================================
+
+# headings
+
+h1
+h2
+h3
+h4
+h5
+h6
+
+
+1. paragraph => p
+2. bold => b
+3. italic => i
+4. strong => it also same work as bold but its also use for SEO
+5. u tag => for underline
+6. br tag => for line break ( single tag  )
+7. button 
+8. hr => use for add line
+9. ul => unorder list
+10. ol => order list
+11. li => it is use for list 
+12. center tag => use for text center
+13. a => anchor ( it is use for switch pages )
+14. target="_blank" => it is use for to open tag on next page
+15. title => define our website head
+16. mark
+
+
+==================================================
+                   **Class2**
+==================================================
+
+# ul types
+
+1. disc
+2. square
+3. circle
+
+# ol types 
+
+1
+a
+A
+i
+I
+
+ <ol start="15">
+        <li>Item 1</li>
+        <li>Item 2</li>
+  </ol>
+
+# ==================================================
+
+**Input Tags types**
+
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="text">
+<input type="time">
+<input type="week">
+
+<input type="text" inputmode="numeric">
+<input type="file" accept=".jpg, .pdf">
+
+
+# ===================================================
+
+# textarea
+# select & option
+# label
+# difference between inline and block elements
+# Summary
+
+**inline elements** 
+<!-- img no 1 -->
+
+<a>
+<b>
+<code>
+<em>
+<i>
+<label>
+<span>
+<strong>
+<acronym> === <abbr>
+<abbr title="Show On Hover">Hover Me</abbr>
+<font size="50">Hello world</font>
